@@ -22,7 +22,7 @@ This interactive web application allows users to upload a lung cancer dataset, e
 ## 🚀 Live Demo
 
 👉 Click here to launch the app:  
-[https://lung-cancer-app-shrinithask.streamlit.app](https://lung-cancer-app-shrinithask.streamlit.app)
+https://m6cfg6w2djavfu9tuemjiy.streamlit.app/
 
 ---
 
