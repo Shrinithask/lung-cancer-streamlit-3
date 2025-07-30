@@ -1,32 +1,35 @@
 # lung-cancer-streamlit-3
-# 🧬 Lung Cancer Prediction App
+# 🐾 Pet Health Tracker
 
-This Streamlit web application enables users to explore a lung cancer dataset, train a machine learning model, and make lung cancer risk predictions using single-entry form inputs or batch CSV uploads.
+A user-friendly Streamlit web application to help pet owners maintain health records including vaccinations, medications, and diet logs — all in one place!
 
-The app is designed for educational and analytical use, showcasing the power of data visualization, machine learning, and interactive web deployment using Streamlit.
-
----
-
-## 📌 Features
-
-- **📊 Data Exploration (EDA)**  
-  View the dataset, summary statistics, class distribution, and a correlation heatmap.
-
-- **🧠 Model Training**  
-  Automatically trains a Random Forest Classifier on the uploaded dataset and shows evaluation metrics.
-
-- **🧾 Single Entry Prediction**  
-  Enter one patient’s data through an interactive form and get an instant lung cancer risk prediction.
-
-- **📁 Batch Prediction**  
-  Upload a CSV file to predict lung cancer risk for multiple patients at once and download results.
+This app ensures your furry friend's health is always on track through intuitive visual logs and smart interface design.
 
 ---
 
-## ⚙️ Installation Instructions
+## 🌟 Features
 
-### 1. Clone the Repository
+💉 **Vaccination Tracker** – Record vaccine names and their administration dates  
+💊 **Medication Tracker** – Store dosage details, start and end dates  
+🍽️ **Diet Menu Logger** – Log daily food quantity and measurement units  
+📊 **Pie Chart Visualization** – View daily dietary breakdown in grams  
+🖼️ **Pet Gallery** – Upload and display your pet’s adorable photos  
+🧠 **Auto Theme Adaptation** – Matches your device’s dark or light mode automatically  
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to launch the app](https://pet-health-tracker-shrinithask.streamlit.app)
+
+---
+
+## 🛠️ Installation Instructions
+
+To run this app on your local machine:
+
+### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/Shrinithask/lung-cancer-app.git
-cd lung-cancer-app
+git clone https://github.com/Shrinithask/pet-health-tracker.git
+cd pet-health-tracker
